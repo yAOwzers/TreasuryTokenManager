@@ -12,8 +12,9 @@ Extended from Chainlab's repo [here](https://github.com/OffchainLabs/eth-pos-dev
 
 ## Tech
 
-Smart Contract - Solidity, tested with remix
+Smart Contract - Solidity, tested with remix and foundry.
 Wallet - tested with Metamask
 Testnet - deployed on docker
 Beacon - Prysm
 Consensus - Geth
+Frontend - NA
